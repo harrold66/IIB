@@ -1,0 +1,52 @@
+!SESSION 2018-10-05 14:34:22.326 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ibm.etools.msgbroker.tooling.ide -showlocation -product com.ibm.etools.msgbroker.tooling.ide -showlocation without testnode
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ibm.etools.msgbroker.tooling.ide -showlocation -data /Users/harrold/Documents/workspace/IIB -product com.ibm.etools.msgbroker.tooling.ide -showlocation without testnode
+
+!ENTRY org.eclipse.emf.ecore 2 0 2018-10-05 14:34:25.158
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:34:27.901
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogTitle in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:34:27.907
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogDescription in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:34:27.908
+!MESSAGE NLS missing message: sisInfoStatistics in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY com.ibm.mq.runtime 4 0 2018-10-05 14:34:28.247
+!MESSAGE WebSphere MQ install location is not found.
+
+!ENTRY org.eclipse.ui 2 2 2018-10-05 14:34:29.407
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2018-10-05 14:34:29.407
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2018-10-05 14:34:29.407
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:35:33.714
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorSchemaInAppImportSchemaInSharedLib in: com.ibm.etools.msg.builder.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:35:33.714
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorProjectReferenceIsMissing in: com.ibm.etools.msg.builder.messages
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2018-10-05 14:36:05.670
+!MESSAGE 
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:36:06.108
+!MESSAGE NLS unused message: SendMessage_msgNameLabel in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:36:06.109
+!MESSAGE NLS missing message: SendLastMessageAction_label in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:37:17.212
+!MESSAGE NLS missing message: Error_PolicyUrlIncorrectFormat in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2018-10-05 14:37:17.212
+!MESSAGE NLS missing message: Error_PolicyUrlIncorrectPolicyType in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
